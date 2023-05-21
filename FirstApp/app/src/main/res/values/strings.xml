@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string-array name="Country">
+        <item>VietNam</item>
+        <item>TrungQuoc</item>
+        <item>America</item>
+        <item>Han</item>
+    </string-array>
+    <string-array name="phep">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>

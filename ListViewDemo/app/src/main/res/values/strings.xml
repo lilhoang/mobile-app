@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+    <string-array name="tech">
+        <item>Android</item>
+        <item>IOS</item>
+        <item>Window</item>
+        <item>Fat</item>
+        <item>Gay</item>
+    </string-array>
+</resources>
